@@ -36,3 +36,5 @@ Thumbs.db
 .claude-replay.*
 /.plugins/
 /.opencode-skills/
+
+.vercel
