@@ -1,0 +1,10 @@
+{
+  "description": "Connects buyers and sellers through AI-driven requirement posting, quote comparison, and order management for efficient reverse marketplace transactions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
